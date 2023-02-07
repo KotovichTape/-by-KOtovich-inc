@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Figure><Name>Квадрат</Name><Width>10</Width><Height>20</Height></Figure><Figure><Name>Прямоугольник</Name><Width>140</Width><Height>250</Height></Figure></ArrayOfFigure>
